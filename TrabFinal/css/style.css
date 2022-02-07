@@ -1,0 +1,36 @@
+.logo{
+    width: 174px;
+    height: 60px;
+
+}
+.cadastre{
+    width: 318px;
+    height: 60px;
+
+}
+.agende{
+    width: 318px;
+    height: 60px; 
+}
+.agende2{
+    width: 548px;
+    height: 60px; 
+}
+.eletronico{
+    margin-top: 40px;
+    width: 497px;
+    height: 370px; 
+
+}
+.auxilio{
+    width: 264px;
+    height: 171px; 
+
+}
+.pacotes{
+    width: 365px;
+    height: 498px;
+    border: 3px solid #2E5673;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
